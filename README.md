@@ -1,8 +1,12 @@
 # toDoApp
 
+---
 In this simple Javascript tutorial we build a very simple to do app that can be useful for quick notes.
 
-Hope you enjoy this tutorial
+---
+Hope you enjoy this tutorial!
+
+
 
 --- USEFUL LINKS ---
 
